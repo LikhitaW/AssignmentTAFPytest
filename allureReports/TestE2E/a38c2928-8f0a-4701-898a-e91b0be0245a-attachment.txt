@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_saucedemo_E2E.py:44 ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+[32mINFO    [0m root:test_saucedemo_E2E.py:45 User is able to see products

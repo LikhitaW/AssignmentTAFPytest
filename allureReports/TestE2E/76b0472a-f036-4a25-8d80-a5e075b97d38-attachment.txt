@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_saucedemo_E2E.py:58 Product is selected to add to cart
+[32mINFO    [0m root:test_saucedemo_E2E.py:61 Product get added to cart

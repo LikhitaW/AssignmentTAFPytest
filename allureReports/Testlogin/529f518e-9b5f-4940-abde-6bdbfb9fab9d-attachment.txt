@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_login.py:40 Number of rows 3
+[32mINFO    [0m root:test_login.py:48 user is unable to login
+[32mINFO    [0m root:test_login.py:52 Error message appear for invalid
+[32mINFO    [0m root:test_login.py:48 user is unable to login
+[32mINFO    [0m root:test_login.py:52 Error message appear for invalid

@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_ddt_login.py:21 Number of rows 3
+[32mINFO    [0m root:test_ddt_login.py:29 user is unable to login
+[32mINFO    [0m root:test_ddt_login.py:33 Error message appear for invalid
+[32mINFO    [0m root:test_ddt_login.py:29 user is unable to login
+[32mINFO    [0m root:test_ddt_login.py:33 Error message appear for invalid

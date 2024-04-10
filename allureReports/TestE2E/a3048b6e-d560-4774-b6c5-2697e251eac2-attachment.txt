@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_saucedemo_E2E.py:26 User is able to login successfully
